@@ -1,0 +1,15 @@
+# Government Welfare Schemes - Sample (2025)
+
+## 1. PM-Kisan Samman Nidhi
+*   **Eligibility:** All land-holding farmer families.
+*   **Benefits:** ₹6,000 per year paid in three equal installments.
+*   **Documentation:** Aadhaar card, Bank Account details, Land ownership papers.
+
+## 2. Ayushman Bharat (PM-JAY)
+*   **Purpose:** Health insurance cover for secondary and tertiary care.
+*   **Benefits:** Up to ₹5 lakh per family per year.
+*   **Eligibility:** Determined by SECC 2011 data (for poor and vulnerable families).
+
+## 3. Pradhan Mantri Awas Yojana (PMAY)
+*   **Goal:** Housing for all in rural and urban areas.
+*   **Financial Assistance:** Up to ₹1.2 lakh (plain areas) and ₹1.3 lakh (hilly/difficult areas) for house construction.

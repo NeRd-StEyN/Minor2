@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.local
+backend/.venv
+
+# Dependencies
+node_modules/
+__pycache__/
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# Build outputs
+dist/
+build/
+.next/
+
+govt_schemes_test.csv
+generate_csv.py 
+ngrok.exe
+backend/service_account.json

@@ -1,0 +1,6 @@
+application_id,name,scheme_name,status,remarks
+APP101,Ramesh Kumar,PM-Kisan,Approved,Funds sent locally on 2024-02-15
+APP102,Sunita Devi,Ayushman Bharat,Pending,Pending document verification: Aadhaar
+APP103,Amit Singh,PMAY,Rejected,Ineligible: Already own multiple properties
+APP104,Anita Sharma,PM-Kisan,Approved,Ready for next installment
+APP105,Vikram Sahay,Ayushman Bharat,Approved,Card issued to the head of household
